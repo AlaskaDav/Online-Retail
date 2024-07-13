@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-I have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
+I have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future. They would also like to view different metrics based on the demographic information that is available in the data.
 
 ## Table of Content 
 
@@ -17,11 +17,7 @@ I have been asked by the CEO and CMO to provide visuals on the metrics that they
 - [Recommendations](#recommendations)
 
 #### Data Source
-This is a real life data gotten from Forage site. (.xlsx file)
-
-#### Background
-The Coca-Cola Company is an American multinational corporation founded in 1892. It manufactures, sells and markets soft drinks including Coca-Cola, other non-alcoholic beverage concentrates and syrups, and alcoholic beverages. Its stock is listed on the NYSE and is part of the DJIA and the S&P 500 and S&P 100 indexes.
-Coca-Cola was developed in 1886 by pharmacist John Stith Pemberton. At the time it was introduced, the product contained cocaine from coca leaves and caffeine from kola nuts which together acted as a stimulant. The data file contains a record of sale operation for various retailers between year 2022 and 2023.
+This is a real life data gotten from Forage site (.xlsx file).
 
 #### Tools Used 
 
