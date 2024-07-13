@@ -7,7 +7,6 @@ I have been asked by the CEO and CMO to provide visuals on the metrics that they
 ## Table of Content 
 
 - [Data Source](#data-source)
-- [Background](#background)
 - [Tools Used](#tools-used)
 - [ETL Processing](#etl-processing)
 - [Recommendations](#recommendations)
@@ -23,7 +22,7 @@ This is a real life data gotten from Forage site (.xlsx file).
 
 - Microsoft Excel: for easy access the contents of the file and understanding of the components of the data.
     - [Download here](http://microsoft.com)
-- Excel Cleaning functions : To carry ETL process on the data
+- Power Querry : To carry ETL process on the data
 - Pivot Table: For visualization and creating reports
 
 #### ETL Processing
