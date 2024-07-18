@@ -82,7 +82,7 @@ The analysis results are summarized as follows;
 
 #### Recommendations
 
-Based on the analysis, I recommend the following actions:
+Based on the analysis, I recommend the following actions for as an expansion strategy:
  - Measuring the performance of each country and customer is a great approach to selecting the best performing brand ad retailer. However,the Online Retail company should regularly consider population and potential customers in each country, the level of satisfaction each products offers.
  - Trade discount can be effected on percentage of purchase by the retailers to serve as an encouragement for higher purchase.
  - Strategies for customer retention should also be developed; this could include effective communication, ensure customer satisfaction, credit allowance, building trust, bonus on referral, product differentiation, price reduction, cost leadership, yearly bonus sales etc
