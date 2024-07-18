@@ -42,7 +42,7 @@ In the initial data preparation process, the following process was performed
    - Inserted a revenue column by creating a measure using DAX formula
    - Created a new table by extraction  for Date/Calendar with the following columns :
      (a) Date Column (b) Year Column (c) Month Column (d) Month Number 
-4. Finally, i loaded the completely transformed and cleaned data into PowerBI report page to build dashboard for reporting and visualizations.
+4. Finally, I loaded the completely transformed and cleaned data into PowerBI report page to build dashboard for reporting and visualizations.
  
 #### CMO and CEO questions to consider
 
