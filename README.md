@@ -28,8 +28,16 @@ This is a real life data (.xlsx file) which is provided by TATA was gotten from 
 #### ETL Processing
 
 In the initial data preparation process, the following process was performed
-1. Data Extraction: The downlaoaded .xlsx file from TATA/forage site was extracted from Microsoft Excel. was a clean data set with litle or no much adjustment. It was a single data file. 
-2. Transformation process taken place involves:
+1. Data Extraction: The downlaoaded .xlsx file from TATA/forage site was extracted from Microsoft Excel. Although the data  file was a single file but It was a pretty dirty data set with a lot of cleaning process and transformation.
+2. Cleaning and Transformation process taken place involves:
+   - Promoting headers
+   - Changing data types
+   - Replacing null values with N/A(Not Available)
+   - Removing non relevant columns to the business problems/questions.
+   - Added conditional column to:
+     (a) Create a check that the quantity should not be below 1 unit.
+     (b) Create a check that the Unit price should not be below $0.
+     (c) Create a check that contains some returns to the store which are provided in negative quantities.
    - Renaming the data file
    - Corverted the data into tables
 4. Loading process involves loading the completely transformed and cleaned data into Pivot table to build dashboard for reporting and visualizations.
