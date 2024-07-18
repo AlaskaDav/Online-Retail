@@ -39,7 +39,9 @@ In the initial data preparation process, the following process was performed
      (b) Create a check that the Unit price should not be below $0.
      (c) Create a check that contains some returns to the store which are provided in negative quantities.
    - Renaming the data columns
-   - Inserted a revenue column by creating a measure using DAX formula 
+   - Inserted a revenue column by creating a measure using DAX formula
+   - Created a new table by extraction  for Date/Calendar with the following columns :
+     (a) Date Column (b) Year C
    - 
 4. Loading process involves loading the completely transformed and cleaned data into Pivot table to build dashboard for reporting and visualizations.
  
