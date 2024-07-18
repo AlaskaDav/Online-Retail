@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-I have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future. They would also like to view different metrics based on the demographic information that is available in the data.
+I have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. Ensure to gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future as expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business. They would also like to view different metrics based on the demographic information that is available in the data.
 
 ## Table of Content 
 
@@ -16,19 +16,19 @@ I have been asked by the CEO and CMO to provide visuals on the metrics that they
 - [Recommendations](#recommendations)
 
 #### Data Source
-This is a real life data gotten from Forage site (.xlsx file).
+This is a real life data (.xlsx file) which is provided by TATA was gotten from Forage site.
 
 #### Tools Used 
 
-- Microsoft Excel: for easy access the contents of the file and understanding of the components of the data.
+- Microsoft Excel: for easy access to the contents of the file, viewing and understanding of the components of the data.
     - [Download here](http://microsoft.com)
 - Power Querry : To carry ETL process on the data
-- Pivot Table: For visualization and creating reports
+- PowerBI: For visualization and creating reports
 
 #### ETL Processing
 
 In the initial data preparation process, the following process was performed
-1. Data Extraction: The extracting data file (.xlsx files) from Microsoft Excel was a clean data set with litle or no much adjustment. It was a single data file. 
+1. Data Extraction: The downlaoaded .xlsx file from TATA/forage site was extracted from Microsoft Excel. was a clean data set with litle or no much adjustment. It was a single data file. 
 2. Transformation process taken place involves:
    - Renaming the data file
    - Corverted the data into tables
