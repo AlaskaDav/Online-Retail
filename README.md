@@ -74,7 +74,7 @@ The analysis results are summarized as follows;
 2. In October and November 2021, more revenue was realised wtih an increase in sales, this could be because of the festive period or possibly be that an event was held by the retail store or any other organization.
 3. The top 10 countries generating the highest revenue and quantities sold are: Germany, France, EIRE, Spain, Netherlands, Belgium, Switzerland, Portugal, Australia and Norway.
 4. The top 10 customers with highest revenue are : An Anonymous Customer(with over **$2M revenue**),
-5. A record showing that out of all the goods sold, a percentage of **1.96%** was returned back to the store either because of spoilage, wrong address, or customer dissatisfaction etc. This also affected the level of revenue generated in a little proportion in the period. 
+5. A record showing that out of all the goods sold, a percentage of **1.96%** was returned back to the store either because of spoilage, wrong address, or customer dissatisfaction etc. This also affected the level of revenue generated in a little proportion in the period.
 
 ### Project Dashboard
 
@@ -93,5 +93,6 @@ Based on the analysis, I recommend the following actions for as an expansion str
    (d) EIRE
    (e) Switzerland
     This is because, despite the fact that little quanties were sold in those countries, much revenue were still generated. I was able to achieve this by comparing the total revenue to total order for the countries to determine the average revenue by price.
+   - Finally, i would recommend that the Online Retail store should endeavour to ensure an improved customer satisfaction for an increase in customer base and also to expand operations lower revenue generating contries. 
 🖥️
 🍹
