@@ -22,8 +22,8 @@ This is a real life data (.xlsx file) which is provided by TATA was gotten from 
 
 - Microsoft Excel: for easy access to the contents of the file, viewing and understanding of the components of the data.
     - [Download here](http://microsoft.com)
-- Power Querry : To carry ETL process on the data
-- PowerBI: For visualization and creating reports
+- Power Querry : This is used to carry out the ETL process on the data.
+- PowerBI: For visualization and creating reports.
 
 #### ETL Processing
 
@@ -47,10 +47,17 @@ In the initial data preparation process, the following process was performed
  
 #### Key Insights to consider
 
-1.	What is the "Total Sales" for each brand in year 2022 and 2023, determine the variances of the products brands?
-2.	What is the "Total Sales" for each retailer in year 2022 and 2023, determine the variances of the Retailers  ?
-3.	Visualize the profit margin on each sale in four quarters of the years?
-4.	What is the total units sold, the average price per unit and overall Operating profit?
+- Question 1
+The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+- Question 2
+The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+
+- Question 3
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+
+- Question 4
+The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
 #### Data Analysis Procedures:
 
