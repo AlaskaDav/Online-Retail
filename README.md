@@ -103,6 +103,8 @@ Based on the analysis, I recommend the following actions for as an expansion str
    (d) Ireland
    (e) Switzerland
     This is because, despite the fact that little quanties were sold in those countries, much revenue were still generated. I was able to achieve this by comparing the total revenue to total order for the countries to determine the average revenue by price.
-   - Finally, i would recommend that the Online Retail store should endeavour to ensure an improved customer satisfaction for an increase in customer base and also to expand operations lower revenue generating contries. 
+   - Finally, i would recommend that the Online Retail store should endeavour to ensure an improved customer satisfaction for an increase in customer base and also to expand operations lower revenue generating contries.
+
+
 🖥️
 🍹
