@@ -9,10 +9,11 @@ I have been asked by the CEO and CMO to provide visuals on the metrics that they
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
 - [ETL Processing](#etl-processing)
-- [Recommendations](#recommendations)
+- [CMO and CEO questions to consider](#CMO-and-CEO-questions-to-consider)
 - [Data Analysis Procedures](#data-analysis-procedures)
-- [Project Dashboard](#project-dashboard)
 - [Results and Findings](#results-and-findings)
+- [MY SCRIPT PRESENTATION](#my-script-presentation)
+- [Project Dashboard](#project-dashboard)
 - [Recommendations](#recommendations)
 
 #### Data Source
