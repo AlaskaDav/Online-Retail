@@ -71,7 +71,7 @@ In the initial data preparation process, the following process was performed
 #### Results and Findings
 
 My analysis results are summarized as follows;
-1. From the analysis of the data, the Online Retail sales has improved over the years from (about **$885,000) in year 2010 to ( over **$10 million**) in year 2011 and this resulted into generating a total revenue of over **$11 Million**. This is also due to the increase in the sales quantity for the years. In addition, the increase in revenue generated over the month in the year 2011 is as a resulting effect of increase in order/quantity, except the slight reduction both in revenue and quantity sold in the month of December.
+1. From the analysis of the data, the Online Retail sales has improved over the years from (about **$885,000**) in year 2010 to ( over **$10 million**) in year 2011 and this resulted into generating a total revenue of over **$11 Million**. This is also due to the increase in the sales quantity for the years. In addition, the increase in revenue generated over the month in the year 2011 is as a resulting effect of increase in order/quantity, except the slight reduction both in revenue and quantity sold in the month of December.
 2. In October and November 2011, more revenue was realised wtih an increase in sales, this could be because of the festive period or possibly be that an event was held by the retail store or any other organization.
 3. The top 10 countries generating the highest revenue and quantities sold are: Germany, France, EIRE, Spain, Netherlands, Belgium, Switzerland, Portugal, Australia and Norway.
 4. The top 10 customers with highest revenue are : An Anonymous Customer(with over **$2M revenue**),
